@@ -1,0 +1,186 @@
+html {
+    font-size: 70%;
+}
+
+header {
+    height: 50vh;
+}
+
+header img {
+    width: 300px;
+    height: 80px;
+}
+
+.header--title-container h1 {
+    font-size: 3.4rem;
+    line-height: 4rem;
+}
+
+.header--title-container p {
+    font-size: 2rem;
+    margin-top: 40px;
+}
+
+.header--title-container .header--button {
+    top: 83%;
+    left: calc(50% - 150px);
+    width: 300px;
+    height: 80px;
+    font-size: 2rem;
+}
+
+.header--button span {
+    width: 25px;
+    height: 15px;
+    margin: 0;
+    padding: 25px 0 20px;
+}
+
+.main-exchange-container .backgroundImg {
+    width: 300px;
+    height: 300px;
+    margin: 10px auto 80px;
+}
+
+.main-exchange-container--title h2{
+    font-size: 3rem;
+    margin: 0;
+}
+
+.main-exchange-container--title p{
+    margin-top: 50px;
+    font-size: 2.2rem;
+    line-height: 3rem;
+}
+
+.main-table-container {
+    display: flex;
+    width: 930px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.main-currency-table {
+    margin: 20px 0;
+}
+
+.main-currency-table .curency-table--title {
+    font-size: 2.3em;
+    margin-bottom: 25px;
+}
+
+.currency-table--container td {
+    font-size: 2rem;
+}
+
+.currency-table--container.table__right {
+    font-size: 1.8rem;
+}
+
+.currency-table--date {
+    margin-top: 20px;
+    width: 250px;
+    height: auto;
+}
+
+.currency-table--date p {
+    font-size: 1.5rem;
+}
+
+.main-product-detail {
+    height: 100vh;
+}
+
+.product-detail--batata-logo {
+    width: 90px;
+    height: 70px;
+}
+
+.product-detail--card {
+    padding: 35px;
+}
+
+.product-detail--card .icon{
+    width: 30px;
+    height: 30px;
+    margin-bottom: 35px;
+}
+
+.product-detail--title h2 {
+    font-size: 3.2rem;
+    margin-bottom: 40px;
+}
+
+.product-detail--title p {
+    font-size: 2.4rem;
+    margin-bottom: 40px;
+}
+
+.product--card-title {
+    font-size: 2.2rem;
+}
+
+.product--card-body {
+    font-size: 1.6rem;
+    line-height: 2.3rem;
+}
+
+.bitcoin-img-container {
+    background: url("../assests/images/bitcoinbaby4x.jpg") no-repeat center/cover;
+    opacity: .8;
+    background-attachment: fixed;
+    min-height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bitcoin-img-container h2 {
+    font-size: 4rem;
+}
+
+.plans--title h2 {
+    font-size: 3rem;
+}
+
+.plans--title p {
+    font-size: 2rem;
+}
+
+.product-cards--container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.plans-container--slider {
+    justify-content: center;
+    overflow: hidden;
+}
+
+.plan-card--saving {
+    margin-top: 10px;
+    font-size: 1.4rem;
+}
+
+footer {
+    justify-content: space-around;
+}
+
+footer .left ul{
+    font-size: 2rem; 
+    line-height: 2.6rem;
+}
+
+.left a:hover {
+    text-decoration: underline;
+}
+
+.left a:active {
+    color: #f0b782;
+}
+
+.right img {
+    width: 100px;
+}
