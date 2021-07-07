@@ -21,4 +21,11 @@
 - Primer paso: definir las fórmulas.
 - Segundo paso: implementar la fórmulas en JavaScript.
 - Tercer paso: crear funciones.
-- Cuarto paso: integrar JS con HTML.
+
+## Taller #4: Salario Medio y Top 10%.
+
+- Primer paso: definir las fórmulas.
+- Segundo paso: implementar la fórmulas en JavaScript.
+- Tercer paso: crear funciones.
+
+
